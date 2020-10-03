@@ -1,0 +1,13 @@
+p{
+ font-size: larger;
+ color: black;
+ background-position:5% 15%;
+ background-image: url"images/confidential.png";
+ 
+ background-repeat: no-repeat;
+ }
+
+ div > p{
+     background-color: grey;
+ }
+

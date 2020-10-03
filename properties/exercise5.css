@@ -1,0 +1,17 @@
+
+   tr,td {
+      border-collapse: separate;
+      border: 1px solid black;
+      padding: 5px;
+      text-align: left;
+      border-radius: 5px;
+      box-shadow: 2px 3px gray ;
+      margin: 50px;
+    }
+
+    table{
+      border-color: white;
+      border-spacing:10px 10px ; 
+    }
+    
+    

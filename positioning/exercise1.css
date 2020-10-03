@@ -1,0 +1,77 @@
+div {
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#one{ border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;
+    display: none;
+}
+#two{
+    border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;
+}
+#thr{ border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;}
+#four{
+    border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+#fiv{ border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;}
+#six{border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;}
+#sev{ border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;}
+#eigh{border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;}
+#nin{ border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    display: none;}
+#ten{border: 1px solid black;
+    width:3em;
+    height:1.5em;
+    text-align: center;
+    color: white;
+    background-color: blue;}
