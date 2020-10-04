@@ -1,27 +1,58 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <link type="stylesheet" href="exercise3.css">
     <title>Exercise #3: Styling source code</title>
 </head>
-<body>
 
-<p>Code snippet 1:</p>
-<pre>
+<style>
+    a:link {
+        text-decoration: none;
+    }
+
+    a:visited {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    a:active {
+        text-decoration: underline;
+    }
+
+    h1,
+    pre,
+    p {
+
+        font-family: Consolas, Menlo, Monaco, Courier New, monospace;
+        font-weight: bolder;
+        text-align:justify;
+       margin-left: 20px;
+    }
+</style>
+
+<body >
+
+    <p>Code snippet 1:</p>
+    <pre>
 h1 {
-    font-family: Verdana;
-    font-size: 1.2em;
+   <a href="https://www.w3schools.com/html/">font-family: </a> <span style="color:#009933 ;">Verdana</span>;
+    <a href="https://www.w3schools.com/html/">font-size:</a> <span style="color:#009933 ;">102em</span>;
 }
 </pre>
 
-<p>Code snippet 2:</p>
-<pre>
+    <p>Code snippet 2:</p>
+    <pre>
 p {
-    font-family: Arial;
-    color: blue;
-    text-align: right;
+    <a href="https://www.w3schools.com/html/">font-family:</a> <span style="color:#009933 ;">Arial</span>;
+    <a href="https://www.w3schools.com/html/"> color: </a><span style="color:#009933 ;">blue</span>;
+    <a href="https://www.w3schools.com/html/">text-align:</a> <span style="color:#009933 ;">right</span>;
 }
 </pre>
 
 </body>
+
 </html>

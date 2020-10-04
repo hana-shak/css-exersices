@@ -1,6 +1,6 @@
-pre{
+pre,h1,p{
 font-family: Consolas, Menlo, Monaco, Courier New, monospace;
-font-weight: bold;
+font-weight: bolder;
 
 }
 
