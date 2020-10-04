@@ -1,4 +1,18 @@
 /* this is for you to complete */
 
-li:first-line { color: green;}
+
+div a {
+    color: teal;
+} 
+div a :last-of-type {
+background-color: yellow;
+color: red;
+}
+
+ul :first-child {
+    font-size:bold;
+}
+ ul > a {
+     color: tomato;
+     }
 
