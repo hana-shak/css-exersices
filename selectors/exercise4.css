@@ -1,18 +1,38 @@
-/* this is for you to complete */
-
-
 div a {
     color: teal;
 } 
-div a :last-of-type {
-background-color: yellow;
-color: red;
+ div > p:last-of-type a{
+    background-color: yellow;
+    color:red;
+}
+ ul > li >ul {
+    color: blue;
 }
 
-ul :first-child {
-    font-size:bold;
-}
- ul > a {
+  ul > li > a {
      color: tomato;
      }
+     
+     ul > ul >a {
+         color:tomato;
+     }
+ul > li > ul> a  {
+    color:tomato;
+}
+ ul + li {   /*did not figure out why did not work */
+    font-weight: bold;
+}
+
+
+ul > li > ul> a  {
+    color:tomato;
+}
+
+
+
+
+
+
+
+
 
