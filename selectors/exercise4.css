@@ -19,7 +19,7 @@ div a {
 ul > li > ul> a  {
     color:tomato;
 }
- ul + li {   /*did not figure out why did not work */
+ li:first-child {   /*did not figure out why did not work */
     font-weight: bold;
 }
 
