@@ -1,6 +1,6 @@
 
-   tr,td {
-      border-collapse: separate;
+   td {
+    border-collapse: separate;
       border: 1px solid black;
       padding: 5px;
       text-align: left;
@@ -9,6 +9,8 @@
       margin: 50px;
     }
 
+
+    
     table{
       border-color: white;
       border-spacing:10px 10px ; 

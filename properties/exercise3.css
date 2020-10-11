@@ -1,6 +1,13 @@
 pre,h1,p{
 font-family: Consolas, Menlo, Monaco, Courier New, monospace;
 font-weight: bolder;
+color: #3333ff;
+
 
 }
+a{
+    margin-left: 20px;
+    color: blue;
+}
+
 
